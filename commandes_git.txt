@@ -1,6 +1,6 @@
 git init
 git add <fichier>
-git commit -a -am "message" (-a: ajouter fichier deja indexé,  -am : message )
+git commit  -am "message" (-a: ajouter fichier deja indexé,  -am : message )
 git log (quitter 'q')
 git checkout <sha>
 git checkout master (dernier commit)
